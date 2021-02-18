@@ -1,6 +1,6 @@
 # REACT CHALLENGE
 
-Para executar a aplicaçâo
+Para executar a aplicação
 ```sh
 $ npm install
 ```
